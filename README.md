@@ -7,10 +7,10 @@ Full Stack Developer
 I am full stack developer. Love to work with node js with the DataBase of my choice MongoDB or PostgresQl
 
 * 🌍  I'm based in jhelum
-* ✉️  You can contact me at [alismevn@gmail.com](mailto:alismevn@gmail.com)
-* 🚀  I'm currently working on [LMS (Its a giant project. I am using MERN stack)](http://sleapy.ridge.herokuapp.com)
+* ✉️  Contact : [alismevn@gmail.com](mailto:alismevn@gmail.com)
+* 🚀  I'm currently working on [Financial Project (Node JS React JS PostgresQl)]
 * 🧠  I'm learning Docker
-* 🤝  I'm open to collaborating on Web based projects
+* 🤝  I'm open to collaborate on Web based projects
 
 ### Skills
 
